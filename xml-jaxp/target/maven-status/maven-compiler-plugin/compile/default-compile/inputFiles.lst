@@ -1,0 +1,9 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Resources.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Error.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Book.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Errors.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/upload/FileUploadServlet.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/SAXXMLParser.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/DOMXMLParser.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/XMLParser.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/upload/FileUploadBean.java

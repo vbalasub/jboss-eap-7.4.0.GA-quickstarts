@@ -1,0 +1,4 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateful/RemoteCounter.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateless/RemoteCalculator.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateful/CounterBean.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateless/CalculatorBean.java

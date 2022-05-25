@@ -1,0 +1,7 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/SetServiceException.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/SetServiceBAImpl.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/jaxws/SetServiceBA.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/AlreadyInSetException.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/SetParticipantBA.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/jaxws/SetServiceBAService.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/MockSetManager.java

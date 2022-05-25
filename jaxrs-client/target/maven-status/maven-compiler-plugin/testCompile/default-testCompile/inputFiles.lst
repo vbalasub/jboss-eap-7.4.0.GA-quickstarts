@@ -1,0 +1,4 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/LogResponseFilter.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/ContactsRestClient.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/ContactsRestClientIT.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/SavedByClientRequestFilter.java

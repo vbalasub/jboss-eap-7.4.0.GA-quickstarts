@@ -1,0 +1,15 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskListBean.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/Task.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskDao.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/Resources.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/CurrentTask.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/Authentication.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/AuthController.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/UserDaoImpl.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/UserDao.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/CurrentTaskStore.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/User.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskController.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/CurrentUser.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskDaoImpl.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskList.java

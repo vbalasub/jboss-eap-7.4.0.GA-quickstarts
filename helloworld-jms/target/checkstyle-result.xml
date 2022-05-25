@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-jms/src/main/java/org/jboss/as/quickstarts/jms/HelloWorldJMSClient.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-jms/src/main/resources/META-INF/wildfly-config.xml">
+</file>
+</checkstyle>

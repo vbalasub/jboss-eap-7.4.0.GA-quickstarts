@@ -1,0 +1,14 @@
+#Mon Apr 25 14:38:11 CDT 2022
+configuration*?=00D1B4A97C0738628B335AD2CFB7F5196F8166C9
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactValidator.java=1624481606000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/util/Resources.java=1624481606000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/test/java/org/jboss/quickstarts/contact/test/ContactRegistrationIT.java=1624481606000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/JaxRsActivator.java=1624481606000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/Contact.java=1624481606000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactService.java=1624481606000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/resources/META-INF/persistence.xml=1624481606000
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactRESTService.java=1624481606000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactRepository.java=1624481606000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/util/JacksonConfig.java=1624481606000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/util/JSONPRequestFilter.java=1624481606000

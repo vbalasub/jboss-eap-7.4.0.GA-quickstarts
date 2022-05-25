@@ -1,0 +1,9 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactValidator.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/util/Resources.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactRepository.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactService.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/JaxRsActivator.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/Contact.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactRESTService.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/util/JSONPRequestFilter.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/util/JacksonConfig.java

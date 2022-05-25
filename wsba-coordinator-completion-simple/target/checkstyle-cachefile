@@ -1,0 +1,13 @@
+#Mon Apr 25 14:43:10 CDT 2022
+configuration*?=4C96BB3E641234EBCBE0082AD22894068F839FB9
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/AlreadyInSetException.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/MockSetManager.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/test/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/ClientStub.java=1624481608000
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/SetServiceException.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/test/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/ClientIT.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/jaxws/SetServiceBA.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/SetServiceBAImpl.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/test/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/Client.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/jaxws/SetServiceBAService.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/SetParticipantBA.java=1624481608000

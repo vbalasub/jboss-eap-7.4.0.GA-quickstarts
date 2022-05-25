@@ -1,0 +1,4 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jts/application-component-2/src/main/java/org/jboss/as/quickstarts/cmt/jts/ejb/InvoiceManagerEJBHome.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jts/application-component-2/src/main/java/org/jboss/as/quickstarts/cmt/jts/mdb/HelloWorldMDB.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jts/application-component-2/src/main/java/org/jboss/as/quickstarts/cmt/jts/ejb/InvoiceManagerEJB.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jts/application-component-2/src/main/java/org/jboss/as/quickstarts/cmt/jts/ejb/InvoiceManagerEJBImpl.java

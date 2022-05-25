@@ -1,0 +1,7 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/StatefulBean.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/RestEndpoints.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/RemoteBeanInterface.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/mock/MockXAResource.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/entity/CalleeUser.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/StatelessBean.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/InfoUtils.java

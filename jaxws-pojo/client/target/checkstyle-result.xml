@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jaxws-pojo/client/src/main/java/org/jboss/quickstarts/ws/jaxws/samples/jsr181pojo/JSEBean.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jaxws-pojo/client/src/main/java/org/jboss/quickstarts/ws/client/Client.java">
+</file>
+</checkstyle>

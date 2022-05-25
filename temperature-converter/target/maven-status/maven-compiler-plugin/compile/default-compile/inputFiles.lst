@@ -1,0 +1,5 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/controller/TemperatureConverter.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/Temperature.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/TemperatureConvertEJB.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/Scale.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/controller/ScaleConverter.java

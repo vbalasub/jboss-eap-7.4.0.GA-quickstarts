@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateful/CounterBean.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateful/RemoteCounter.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateless/CalculatorBean.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateless/RemoteCalculator.java">
+</file>
+</checkstyle>

@@ -1,0 +1,13 @@
+#Mon Apr 25 14:43:06 CDT 2022
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/resources/catalog.xml=1624481608000
+configuration*?=EC18BC804121E7937C641780A107910E71C3D392
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Error.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Errors.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/SAXXMLParser.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/upload/FileUploadBean.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Book.java=1624481608000
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Resources.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/upload/FileUploadServlet.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/XMLParser.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/DOMXMLParser.java=1624481608000

@@ -1,0 +1,8 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/Testing.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/TaskDaoIT.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/ResourcesIT.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/FacesContextStub.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/DefaultDeployment.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/TaskDaoStub.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/UserDaoIT.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/TaskListBeanIT.java

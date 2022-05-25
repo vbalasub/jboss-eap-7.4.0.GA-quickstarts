@@ -1,0 +1,7 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/MockRestaurantManager.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/jaxws/RestaurantServiceATService.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/jaxws/RestaurantServiceAT.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/RestaurantException.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/RestaurantParticipant.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/servlet/WSATSimpleServletClient.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/RestaurantServiceATImpl.java

@@ -1,0 +1,11 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/ReportBatchelet.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/controller/JobData.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/model/Contact.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/listener/PersistListener.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/ContactsPersister.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/RecordsReader.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/ChunkCheckpoint.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/ContactsFormatter.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/listener/JobListener.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/util/Resources.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/controller/BatchController.java

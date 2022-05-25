@@ -1,0 +1,5 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/spring-kitchensink-basic/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/basic/data/MemberDaoImpl.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/spring-kitchensink-basic/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/basic/controller/MemberController.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/spring-kitchensink-basic/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/basic/data/MemberDao.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/spring-kitchensink-basic/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/basic/model/Member.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/spring-kitchensink-basic/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/basic/controller/MemberRestController.java

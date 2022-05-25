@@ -1,0 +1,6 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/client/RemoteBeanCaller.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/server/RemoteBeanInterface.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/entity/CallerUser.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/client/RemoteLookupHelper.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/client/UsersManagement.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/client/RestEndpoints.java

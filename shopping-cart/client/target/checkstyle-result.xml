@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/shopping-cart/client/src/main/java/org/jboss/as/quickstarts/client/Client.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/shopping-cart/client/src/main/resources/jboss-ejb-client.properties">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/shopping-cart/client/src/main/resources/META-INF/wildfly-config.xml">
+</file>
+</checkstyle>

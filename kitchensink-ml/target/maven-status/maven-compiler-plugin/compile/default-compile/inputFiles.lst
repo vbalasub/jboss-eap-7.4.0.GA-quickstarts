@@ -1,0 +1,9 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-ml/src/main/java/org/jboss/as/quickstarts/kitchensink/service/MemberRegistration.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-ml/src/main/java/org/jboss/as/quickstarts/kitchensink/util/KitchensinkMessages.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-ml/src/main/java/org/jboss/as/quickstarts/kitchensink/rest/MemberResourceRESTService.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-ml/src/main/java/org/jboss/as/quickstarts/kitchensink/model/Member.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-ml/src/main/java/org/jboss/as/quickstarts/kitchensink/rest/JaxRsActivator.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-ml/src/main/java/org/jboss/as/quickstarts/kitchensink/controller/MemberController.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-ml/src/main/java/org/jboss/as/quickstarts/kitchensink/data/MemberRepository.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-ml/src/main/java/org/jboss/as/quickstarts/kitchensink/util/Resources.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-ml/src/main/java/org/jboss/as/quickstarts/kitchensink/data/MemberListProducer.java

@@ -1,0 +1,9 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/BiddingEncoder.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/BiddingFactory.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/Message.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/Bid.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/Item.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/BidStatus.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/MessageDecoder.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/Bidding.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/BidWebSocketEndpoint.java

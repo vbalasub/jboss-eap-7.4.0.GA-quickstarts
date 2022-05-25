@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-throws-exception/ejb-api/src/main/java/org/jboss/as/quickstarts/ear/client/GreeterException.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-throws-exception/ejb-api/src/main/java/org/jboss/as/quickstarts/ear/client/GreeterEJBLocal.java">
+</file>
+</checkstyle>

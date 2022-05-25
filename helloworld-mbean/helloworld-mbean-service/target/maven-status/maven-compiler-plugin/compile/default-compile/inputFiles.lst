@@ -1,0 +1,2 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-mbean/helloworld-mbean-service/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXPojoHelloWorld.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-mbean/helloworld-mbean-service/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/IHelloWorldMXBean.java

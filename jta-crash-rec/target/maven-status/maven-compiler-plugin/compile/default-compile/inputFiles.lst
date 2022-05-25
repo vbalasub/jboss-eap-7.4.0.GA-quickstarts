@@ -1,0 +1,4 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jta-crash-rec/src/main/java/org/jboss/as/quickstarts/xa/XAServlet.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jta-crash-rec/src/main/java/org/jboss/as/quickstarts/xa/XAService.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jta-crash-rec/src/main/java/org/jboss/as/quickstarts/xa/KVPair.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jta-crash-rec/src/main/java/org/jboss/as/quickstarts/xa/DbUpdaterMDB.java

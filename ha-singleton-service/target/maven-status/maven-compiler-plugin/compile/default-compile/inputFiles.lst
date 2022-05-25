@@ -1,0 +1,3 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ha-singleton-service/src/main/java/org/jboss/as/quickstarts/ha/singleton/service/SingletonService.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ha-singleton-service/src/main/java/org/jboss/as/quickstarts/ha/singleton/service/QueryingService.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ha-singleton-service/src/main/java/org/jboss/as/quickstarts/ha/singleton/service/SingletonServiceActivator.java

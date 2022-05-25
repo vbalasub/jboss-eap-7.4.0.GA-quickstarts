@@ -1,0 +1,3 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-security-programmatic-auth/src/main/java/org/jboss/as/quickstarts/ejb_security_programmatic_auth/RemoteClient.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-security-programmatic-auth/src/main/java/org/jboss/as/quickstarts/ejb_security_programmatic_auth/SecuredEJB.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-security-programmatic-auth/src/main/java/org/jboss/as/quickstarts/ejb_security_programmatic_auth/SecuredEJBRemote.java

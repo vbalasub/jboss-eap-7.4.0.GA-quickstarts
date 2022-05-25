@@ -1,0 +1,8 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/src/main/java/org/jboss/as/quickstarts/cmt/ejb/CustomerManagerEJB.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/src/main/java/org/jboss/as/quickstarts/cmt/ejb/InvoiceManagerEJB.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/src/main/java/org/jboss/as/quickstarts/cmt/controller/CustomerManager.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/src/main/java/org/jboss/as/quickstarts/cmt/ejb/LogMessageManagerEJB.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/src/main/java/org/jboss/as/quickstarts/cmt/mdb/HelloWorldMDB.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/src/main/java/org/jboss/as/quickstarts/cmt/model/Customer.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/src/main/java/org/jboss/as/quickstarts/cmt/controller/LogMessageManager.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/src/main/java/org/jboss/as/quickstarts/cmt/model/LogMessage.java

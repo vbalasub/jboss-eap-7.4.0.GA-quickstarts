@@ -1,0 +1,8 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToBackend.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/SessionMessage.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/Frontend.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/SessionManager.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ConnectionGate.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToFrontend.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/Backend.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToBroadcast.java

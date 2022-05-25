@@ -1,0 +1,3 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jaxrs-client/src/main/java/org/jboss/as/quickstarts/jaxrsclient/rest/JaxRsActivator.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jaxrs-client/src/main/java/org/jboss/as/quickstarts/jaxrsclient/model/Contact.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/jaxrs-client/src/main/java/org/jboss/as/quickstarts/jaxrsclient/rest/ContactResourceRESTService.java

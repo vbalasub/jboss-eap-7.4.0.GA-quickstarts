@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/util/Resources.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/controller/MemberController.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/data/MemberListProducer.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/data/MemberRepository.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/model/Member.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/service/MemberRegistration.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/hibernate/src/main/resources/META-INF/persistence.xml">
+</file>
+</checkstyle>

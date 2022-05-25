@@ -1,0 +1,8 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/service/HelloService.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/IHelloWorldMXBean.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/util/CDIExtension.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/AnnotatedComponentHelloWorld.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXComponentHelloWorld.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/IAnnotatedHelloWorldMBean.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/AbstractComponentMBean.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXPojoHelloWorld.java

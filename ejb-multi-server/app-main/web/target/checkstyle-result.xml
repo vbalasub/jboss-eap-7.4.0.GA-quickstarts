@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-multi-server/app-main/web/src/main/java/org/jboss/as/quickstarts/ejb/multi/server/app/JsfController.java">
+</file>
+<file name="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/ejb-multi-server/app-main/web/src/main/java/org/jboss/as/quickstarts/ejb/multi/server/app/EjbInvocation.java">
+</file>
+</checkstyle>

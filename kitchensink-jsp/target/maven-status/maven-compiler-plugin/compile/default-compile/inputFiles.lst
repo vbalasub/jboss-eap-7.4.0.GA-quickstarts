@@ -1,0 +1,7 @@
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/rest/MemberResourceRESTService.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/util/Resources.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/model/Member.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/servlet/MemberRegistrationServlet.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/data/MemberListProducer.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/controller/MemberRegistration.java
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/rest/JaxRsActivator.java

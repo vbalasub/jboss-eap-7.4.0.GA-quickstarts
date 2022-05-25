@@ -1,0 +1,5 @@
+#Mon Apr 25 14:42:14 CDT 2022
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/shopping-cart/server/src/main/java/org/jboss/as/quickstarts/sfsb/ShoppingCartBean.java=1624481608000
+configuration*?=BFF1742E0BB23F84369698C714C7D26A1939B31D
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/shopping-cart/server/src/main/java/org/jboss/as/quickstarts/sfsb/ShoppingCart.java=1624481608000

@@ -1,0 +1,27 @@
+#Mon Apr 25 14:43:01 CDT 2022
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskListBean.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/TaskDaoIT.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/Task.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/DefaultDeployment.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/Resources.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/AuthController.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/CurrentTask.java=1624481608000
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/Testing.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/CurrentTaskStore.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskList.java=1624481608000
+configuration*?=2553494B2D084A02B75A1CB6FCC13CE340907A6B
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskDao.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/resources/META-INF/persistence.xml=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/Authentication.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/UserDaoImpl.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/UserDao.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskController.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/FacesContextStub.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/ResourcesIT.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/User.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/TaskDaoStub.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/TaskListBeanIT.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskDaoImpl.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/CurrentUser.java=1624481608000
+/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/tasks-jsf/src/test/java/org/jboss/as/quickstarts/tasksJsf/UserDaoIT.java=1624481608000
