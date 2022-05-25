@@ -16,4 +16,10 @@
 --
 
 -- You can use this file to load seed data into the database using SQL statements
+CREATE TABLE Member (
+    id integer,
+    name text,
+    email text,
+    phone_number text
+);
 insert into Member (id, name, email, phone_number) values (0, 'John Smith', 'john.smith@mailinator.com', '2125551212') 
