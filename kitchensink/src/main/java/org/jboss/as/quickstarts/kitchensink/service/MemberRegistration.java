@@ -20,12 +20,14 @@ import org.jboss.as.quickstarts.kitchensink.model.Member;
 
 import javax.ejb.Stateless;
 import javax.enterprise.event.Event;
+import javax.enterprise.inject.Default;
 import javax.inject.Inject;
 import javax.persistence.EntityManager;
 import java.util.logging.Logger;
 
 // The @Stateless annotation eliminates the need for manual transaction demarcation
 @Stateless
+@Default
 public class MemberRegistration {
 
     @Inject
