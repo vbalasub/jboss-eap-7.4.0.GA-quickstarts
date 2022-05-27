@@ -16,10 +16,5 @@
 --
 
 -- You can use this file to load seed data into the database using SQL statements
-CREATE TABLE Member (
-    id integer,
-    name text,
-    email text,
-    phone_number text
-);
+
  
