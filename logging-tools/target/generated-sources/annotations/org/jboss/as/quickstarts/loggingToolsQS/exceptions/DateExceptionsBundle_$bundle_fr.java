@@ -7,7 +7,7 @@ import javax.annotation.processing.Generated;
 /**
  * Warning this class consists of generated code.
  */
-@Generated(value = "org.jboss.logging.processor.generator.model.MessageBundleTranslator", date = "2022-04-25T14:42:09-0500")
+@Generated(value = "org.jboss.logging.processor.generator.model.MessageBundleTranslator", date = "2022-07-01T15:35:00-0500")
 public class DateExceptionsBundle_$bundle_fr extends DateExceptionsBundle_$bundle implements DateExceptionsBundle, Serializable {
     private static final long serialVersionUID = 1L;
     protected DateExceptionsBundle_$bundle_fr() {

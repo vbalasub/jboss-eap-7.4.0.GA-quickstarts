@@ -8,7 +8,7 @@ import org.jboss.logging.BasicLogger;
 /**
  * Warning this class consists of generated code.
  */
-@Generated(value = "org.jboss.logging.processor.generator.model.MessageLoggerTranslator", date = "2022-04-25T14:42:09-0500")
+@Generated(value = "org.jboss.logging.processor.generator.model.MessageLoggerTranslator", date = "2022-07-01T15:35:00-0500")
 public class DateLogger_$logger_sv_SE extends DateLogger_$logger_sv implements DateLogger, BasicLogger, Serializable {
     private static final long serialVersionUID = 1L;
     public DateLogger_$logger_sv_SE(final org.jboss.logging.Logger logger) {

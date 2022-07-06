@@ -1,4 +1,4 @@
-#Mon Apr 25 14:38:32 CDT 2022
+#Fri Jul 01 15:34:38 CDT 2022
 configuration*?=BC8410AE3118DC7777E9C5DCD72AD74F8EF70804
 module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
 /home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/helloworld-html5/src/main/java/org/jboss/as/quickstarts/html5rest/HelloWorld.java=1624481608000

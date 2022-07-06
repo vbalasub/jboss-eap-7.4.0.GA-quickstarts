@@ -8,7 +8,7 @@ import java.lang.String;
 /**
  * Warning this class consists of generated code.
  */
-@Generated(value = "org.jboss.logging.processor.generator.model.MessageBundleImplementor", date = "2022-04-25T14:42:08-0500")
+@Generated(value = "org.jboss.logging.processor.generator.model.MessageBundleImplementor", date = "2022-07-01T15:34:59-0500")
 public class KitchensinkMessages_$bundle implements KitchensinkMessages, Serializable {
     private static final long serialVersionUID = 1L;
     protected KitchensinkMessages_$bundle() {}

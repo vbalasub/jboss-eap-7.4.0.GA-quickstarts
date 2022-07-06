@@ -14,7 +14,7 @@ import static org.jboss.logging.Logger.Level.INFO;
 /**
  * Warning this class consists of generated code.
  */
-@Generated(value = "org.jboss.logging.processor.generator.model.MessageLoggerImplementor", date = "2022-04-25T14:42:09-0500")
+@Generated(value = "org.jboss.logging.processor.generator.model.MessageLoggerImplementor", date = "2022-07-01T15:35:00-0500")
 public class GreeterLogger_$logger extends DelegatingBasicLogger implements GreeterLogger, BasicLogger, Serializable {
     private static final long serialVersionUID = 1L;
     private static final String FQCN = GreeterLogger_$logger.class.getName();

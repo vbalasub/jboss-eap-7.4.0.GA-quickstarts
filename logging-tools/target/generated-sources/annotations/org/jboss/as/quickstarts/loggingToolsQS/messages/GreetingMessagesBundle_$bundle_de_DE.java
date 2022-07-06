@@ -7,7 +7,7 @@ import javax.annotation.processing.Generated;
 /**
  * Warning this class consists of generated code.
  */
-@Generated(value = "org.jboss.logging.processor.generator.model.MessageBundleTranslator", date = "2022-04-25T14:42:09-0500")
+@Generated(value = "org.jboss.logging.processor.generator.model.MessageBundleTranslator", date = "2022-07-01T15:35:00-0500")
 public class GreetingMessagesBundle_$bundle_de_DE extends GreetingMessagesBundle_$bundle_de implements GreetingMessagesBundle, Serializable {
     private static final long serialVersionUID = 1L;
     protected GreetingMessagesBundle_$bundle_de_DE() {

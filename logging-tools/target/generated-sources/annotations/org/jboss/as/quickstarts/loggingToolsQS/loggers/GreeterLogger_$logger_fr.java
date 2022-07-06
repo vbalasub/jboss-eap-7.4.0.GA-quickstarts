@@ -8,7 +8,7 @@ import org.jboss.logging.BasicLogger;
 /**
  * Warning this class consists of generated code.
  */
-@Generated(value = "org.jboss.logging.processor.generator.model.MessageLoggerTranslator", date = "2022-04-25T14:42:09-0500")
+@Generated(value = "org.jboss.logging.processor.generator.model.MessageLoggerTranslator", date = "2022-07-01T15:35:00-0500")
 public class GreeterLogger_$logger_fr extends GreeterLogger_$logger implements GreeterLogger, BasicLogger, Serializable {
     private static final long serialVersionUID = 1L;
     public GreeterLogger_$logger_fr(final org.jboss.logging.Logger logger) {

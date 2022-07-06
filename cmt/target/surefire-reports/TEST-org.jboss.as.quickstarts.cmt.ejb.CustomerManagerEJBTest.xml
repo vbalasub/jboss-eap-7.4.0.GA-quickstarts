@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.jboss.as.quickstarts.cmt.ejb.CustomerManagerEJBTest" time="0.065" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.jboss.as.quickstarts.cmt.ejb.CustomerManagerEJBTest" time="0.053" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-11.0.8.10-2.fc32.x86_64/lib"/>
-    <property name="sun.java.command" value="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/target/surefire/surefirebooter11890482505692702799.jar /home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/target/surefire 2022-04-25T14-36-57_187-jvmRun1 surefire1840048282365787954tmp surefire_016745225120676920610tmp"/>
+    <property name="sun.java.command" value="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/target/surefire/surefirebooter16852261772743816045.jar /home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/target/surefire 2022-07-01T15-34-26_349-jvmRun1 surefire7203809776455692441tmp surefire_07947710164686893810tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/target/test-classes:/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/target/classes:/home/vbalasub/.m2/repository/jakarta/inject/jakarta.inject-api/1.0.3.redhat-00001/jakarta.inject-api-1.0.3.redhat-00001.jar:/home/vbalasub/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/vbalasub/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/vbalasub/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3.redhat-00001/jakarta.persistence-api-2.2.3.redhat-00001.jar:/home/vbalasub/.m2/repository/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/2.0.0.Final-redhat-00001/jboss-ejb-api_3.2_spec-2.0.0.Final-redhat-00001.jar:/home/vbalasub/.m2/repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.3_spec/3.0.0.SP04-redhat-00001/jboss-jsf-api_2.3_spec-3.0.0.SP04-redhat-00001.jar:/home/vbalasub/.m2/repository/org/jboss/spec/javax/jms/jboss-jms-api_2.0_spec/2.0.0.Final-redhat-00001/jboss-jms-api_2.0_spec-2.0.0.Final-redhat-00001.jar:/home/vbalasub/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.3_spec/2.0.0.Final-redhat-00005/jboss-transaction-api_1.3_spec-2.0.0.Final-redhat-00005.jar:/home/vbalasub/.m2/repository/org/jboss/spec/javax/annotation/jboss-annotations-api_1.3_spec/2.0.1.Final-redhat-00001/jboss-annotations-api_1.3_spec-2.0.1.Final-redhat-00001.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/target/surefire/surefirebooter11890482505692702799.jar"/>
+    <property name="surefire.real.class.path" value="/home/vbalasub/DEV/jboss-eap-7.4.0.GA-quickstarts/cmt/target/surefire/surefirebooter16852261772743816045.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.8+10"/>
     <property name="user.name" value="vbalasub"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testNameIsValid" classname="org.jboss.as.quickstarts.cmt.ejb.CustomerManagerEJBTest" time="0.007"/>
+  <testcase name="testNameIsValid" classname="org.jboss.as.quickstarts.cmt.ejb.CustomerManagerEJBTest" time="0.005"/>
 </testsuite>
