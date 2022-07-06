@@ -24,6 +24,7 @@ import javax.enterprise.inject.spi.InjectionPoint;
 import javax.faces.context.FacesContext;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import javax.ejb.Stateful;
 
 /**
  * This class uses CDI to alias Jakarta EE resources, such as the persistence context, to CDI beans
@@ -37,6 +38,8 @@ import javax.persistence.PersistenceContext;
  * private EntityManager em;
  * </pre>
  */
+@Stateful
+@RequestScoped
 public class Resources {
     @Produces
     @PersistenceContext
