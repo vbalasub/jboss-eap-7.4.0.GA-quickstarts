@@ -24,6 +24,7 @@ import javax.enterprise.inject.spi.InjectionPoint;
 import javax.faces.context.FacesContext;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import javax.persistence.PersistenceContextType;
 import javax.ejb.Stateful;
 
 /**
@@ -41,10 +42,15 @@ import javax.ejb.Stateful;
 @Stateful
 @RequestScoped
 public class Resources {
-    @Produces
-    @PersistenceContext
+
+    @PersistenceContext(type = PersistenceContextType.EXTENDED)
     private EntityManager em;
 
+    @Produces
+    public EntityManager getEm() {
+        return em;
+    }
+    
     @Produces
     public Logger produceLog(InjectionPoint injectionPoint) {
         return Logger.getLogger(injectionPoint.getMember().getDeclaringClass().getName());
