@@ -50,7 +50,6 @@ public class Resources {
     public EntityManager getEm() {
         return em;
     }
-    
     @Produces
     public Logger produceLog(InjectionPoint injectionPoint) {
         return Logger.getLogger(injectionPoint.getMember().getDeclaringClass().getName());
